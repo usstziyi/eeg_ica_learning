@@ -14,3 +14,7 @@ data/
 datasets/
 
 
+# mac
+.DS_Store
+
+
